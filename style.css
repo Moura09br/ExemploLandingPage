@@ -272,6 +272,8 @@ a {
   gap: 11em;
 }
 .card {
+  display: none;
+
   position: relative;
   display: flex;
   flex-direction: column;
